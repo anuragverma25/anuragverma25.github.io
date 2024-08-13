@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://anuragverma25.github.io/sitemap.xml
-Host: https://anuragverma25.github.io
