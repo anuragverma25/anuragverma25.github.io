@@ -5,9 +5,9 @@ module.exports = {
     title: 'Anurag Verma',
     description:
       'Anurag Verma is a business analyst who specializes in managing complex projects and driving product innovation to deliver impactful business solutions.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://anuragverma25.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@av2541993',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
